@@ -1,5 +1,10 @@
-Prateek khandelwal                                                                                                                                                                            Prateekkh96@gmail.com
-Technical Lead at HCL Software || M.Tech - IIT Jodhpur                                                                                                                                        Mob.No. 8290989796      linkedinID prateek-khandelwal-876221b6          
+
+Prateek khandelwal
+Technical Lead at HCL Software || M.Tech - IIT Jodhpur
+linkedinID prateek-khandelwal-876221b6
+https://www.kaggle.com/khandelwal10iitj
+Prateekkh96@gmail.com
+Mob.No. 8290989796
 
 **OBJECTIVE** Passionate about machine learning, With a fervent enthusiasm for innovation, I'm excited to leverage my knowledge in machine learning, deep learning, NLP & Generative AI to make and deploy impactful contributions to collaborative projects. I'm eager to immerse myself in cutting-edge technologies to tackle intricate challenges.
 
